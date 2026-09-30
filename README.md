@@ -31,9 +31,7 @@ Four labs from the Decision and Machine Learning course at Centrale Lille, cover
 │   ├── lab2.ipynb
 │   └── data3.npy, data5.npy      # MNIST images of 3s and 5s
 ├── lab3/lab3.ipynb               # iris (loaded from scikit-learn)
-├── lab4/
-│   ├── lab4.ipynb
-│   └── sklearn_data/             # cached Olivetti faces (runs offline)
+├── lab4/lab4.ipynb               # Olivetti faces (downloaded by scikit-learn on first run)
 ├── docs/                         # Figures used in this README
 └── requirements.txt
 ```
